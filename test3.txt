@@ -1,1 +1,1 @@
-asd
+使用git commit --amend
