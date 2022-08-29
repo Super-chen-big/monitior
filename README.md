@@ -26,7 +26,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# monitior
->>>>>>> 2d90610489559ea67028e27f98bd034cdfff1f68
->>>>>>> 3bf9592 (first commit)
+
